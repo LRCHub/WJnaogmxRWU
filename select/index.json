@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "U.N.O",
+  "base_artist": "パスピエ",
+  "createdAt": "2026-03-05T17:15:03.806221Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "S.H.U.N.O",
+      "artist": "Nimo",
+      "has_synced": false,
+      "path": "select/01_S.H.U.N.O_Nimo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "q u a l c u n o",
+      "artist": "iako",
+      "has_synced": true,
+      "path": "select/02_q_u_a_l_c_u_n_o_iako.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "U.N.O",
+      "artist": "パスピエ",
+      "has_synced": false,
+      "path": "select/pl_01_U.N.O_パスピエ.txt"
+    }
+  ]
+}
