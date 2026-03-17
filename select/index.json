@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "U.N.O",
   "base_artist": "パスピエ",
-  "createdAt": "2026-03-05T17:15:03.806221Z",
+  "createdAt": "2026-03-17T22:28:33.453212Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,15 @@
       "artist": "パスピエ",
       "has_synced": false,
       "path": "select/pl_01_U.N.O_パスピエ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "U.N.O",
+      "artist": "パスピエ",
+      "has_synced": false,
+      "path": "select/localdb_01_U.N.O_パスピエ.txt",
+      "repo_name": "WJnaogmxRWU"
     }
   ]
 }
